@@ -1,0 +1,53 @@
+# Built application files
+*.apk
+*.aar
+*.aab
+
+# Archives
+*.zip
+*.tar
+*.tar.gz
+*.rar
+*.7z
+
+# Gradle files
+.gradle/
+**/.gradle/
+build/
+**/build/
+app/build/
+composeApp/build/
+.build-outputs/
+**/.build-outputs/
+
+# Kotlin
+.kotlin/
+**/.kotlin/
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# Android Studio and IntelliJ IDEA files
+*.iml
+.idea/
+.DS_Store
+
+# Native build
+.externalNativeBuild/
+**/.externalNativeBuild/
+.cxx/
+**/.cxx/
+
+# Keystores & Signing
+*.jks
+*.keystore
+
+# Android Studio captures and logs
+captures/
+.navigation/
+*.hprof
+app/release/
+
+# Freebuff internal
+.freebuff/
+
